@@ -16,9 +16,8 @@ The focus of this project was clean structure, semantic HTML, responsive design,
 - Footer credit section with developer link.
 
 ## 🛠️ Built With
-HTML – structure
-
-CSS – styling
+- HTML – structure
+- CSS – styling
 
 ## 🚀 How to Use
 [`View Live Project`](https://midnight-developer-ts.github.io/vlad-tepes-tribute-page/)
@@ -28,7 +27,7 @@ CSS – styling
 3. Click Midnight Developer in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
-tribute-page/ `root file`
+tribute-page/ `root folder`
 
 │── index.html `main webpage` 
 
@@ -68,4 +67,4 @@ This project is provided for portfolio and educational review only.
 Copying, redistribution, or commercial use is prohibited. 
 
 This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/tribute-page/blob/main/LICENSE) file for full terms.
+See the [LICENSE](https://github.com/Midnight-Developer-ts/vlad-tepes-tribute-page/blob/main/LICENSE) file for full terms.
