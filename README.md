@@ -1,4 +1,4 @@
-# Vlad Tepes Tribute Page
+# 📜 Vlad Tepes Tribute Page
 
 ## 📖 Overview
 This project is part of my FreeCodeCamp Responsive Web Design certification. The objective of this Tribute Page was to build a responsive webpage using only HTML and CSS while honoring a historical figure. I chose Vlad Tepes (Vlad the Impaler) because his complex legacy, feared for his harsh punishments, yet remembered in Romania as a strong leader who defended his land.
