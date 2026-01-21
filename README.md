@@ -21,7 +21,7 @@ HTML – structure
 CSS – styling
 
 ## 🚀 How to Use
-[`View Live Project`](https://midnight-developer-ts.github.io/tribute-page/)
+[`View Live Project`](https://midnight-developer-ts.github.io/vlad-tepes-tribute-page/)
 
 1. Explore the webpage for a photo and information about Vlad Tepes. (Known As, Born, Died, Known For)
 2. To learn more you can click the "here" word to be redirected to an informational site (britannica).
@@ -58,7 +58,7 @@ Technical Documentation Page user stories and requirements.
 ## 📸 Preview
 ![Tribute Page Project Screenshot](./images/website-preview.png)
 
-[`View Live Project`](https://midnight-developer-ts.github.io/tribute-page/)
+[`View Live Project`](https://midnight-developer-ts.github.io/vlad-tepes-tribute-page/)
 
 ⚠️ Note: The main portrait of Vlad Țepeș used in this project is sourced from Wikimedia Commons
 , which is in the public domain.
