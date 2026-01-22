@@ -26,7 +26,7 @@ The focus of this project was clean structure, semantic HTML, responsive design,
 3. Click Midnight Developer in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
-vlas-tepes-tribute-page/ `root folder`
+vlad-tepes-tribute-page/ `root folder`
 
 │── index.html `main webpage` 
 
