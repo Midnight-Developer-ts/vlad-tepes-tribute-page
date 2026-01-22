@@ -5,7 +5,6 @@ This project is part of my FreeCodeCamp Responsive Web Design certification. The
 
 The focus of this project was clean structure, semantic HTML, responsive design, and a simple layout that adapts smoothly across various screen sizes.
 
-
 ## ✨ Features
 - Responsive design that works on desktop, tablet, and mobile.
 - Semantic HTML5 structure for accessibility.
@@ -27,7 +26,7 @@ The focus of this project was clean structure, semantic HTML, responsive design,
 3. Click Midnight Developer in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
-tribute-page/ `root folder`
+vlas-tepes-tribute-page/ `root folder`
 
 │── index.html `main webpage` 
 
@@ -35,7 +34,7 @@ tribute-page/ `root folder`
 
 │   └── styles.css `styling` 
 
-│── images/ `image folder`
+│── img/ `image folder`
 
 │   └── website-favicon.png `favicon` 
 
@@ -52,10 +51,10 @@ tribute-page/ `root folder`
 
 ## 🎯 Certification Compliance
 This project fully meets all FreeCodeCamp Responsive Web Design
-Technical Documentation Page user stories and requirements.
+Tribute Page user stories and requirements.
 
 ## 📸 Preview
-![Tribute Page Project Screenshot](./images/website-preview.png)
+![Tribute Page Project Screenshot](./img/website-preview.png)
 
 [`View Live Project`](https://midnight-developer-ts.github.io/vlad-tepes-tribute-page/)
 
