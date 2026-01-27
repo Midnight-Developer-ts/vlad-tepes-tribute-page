@@ -19,11 +19,11 @@ The focus of this project was clean structure, semantic HTML, responsive design,
 - CSS – styling
 
 ## 🚀 How to Use
-[`View Live Project`](https://midnight-developer-ts.github.io/vlad-tepes-tribute-page/)
+[`View Live Project`](https://vynxcode-ts.github.io/vlad-tepes-tribute-page/)
 
 1. Explore the webpage for a photo and information about Vlad Tepes. (Known As, Born, Died, Known For)
 2. To learn more you can click the "here" word to be redirected to an informational site (britannica).
-3. Click Midnight Developer in the footer to view more about the developer on Linktree.
+3. Click Vynxcode in the footer to view more about the developer on Linktree.
 
 ## 📂 Project Structure
 vlad-tepes-tribute-page/ `root folder`
@@ -56,7 +56,7 @@ Tribute Page user stories and requirements.
 ## 📸 Preview
 ![Tribute Page Project Screenshot](./img/website-preview.png)
 
-[`View Live Project`](https://midnight-developer-ts.github.io/vlad-tepes-tribute-page/)
+[`View Live Project`](https://vynxcode-ts.github.io/vlad-tepes-tribute-page/)
 
 ⚠️ Note: The main portrait of Vlad Țepeș used in this project is sourced from Wikimedia Commons
 , which is in the public domain.
@@ -65,5 +65,5 @@ Tribute Page user stories and requirements.
 This project is provided for portfolio and educational review only. 
 Copying, redistribution, or commercial use is prohibited. 
 
-This project is licensed under a Midnight Developer Proprietary License. 
-See the [LICENSE](https://github.com/Midnight-Developer-ts/vlad-tepes-tribute-page/blob/main/LICENSE) file for full terms.
+This project is licensed under a Vynxcode Proprietary License. 
+See the [LICENSE](https://github.com/vynxcode-ts/vlad-tepes-tribute-page/blob/main/LICENSE) file for full terms.
