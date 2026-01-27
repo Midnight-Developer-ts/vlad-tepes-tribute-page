@@ -36,7 +36,7 @@ vlad-tepes-tribute-page/ `root folder`
 
 │── img/ `image folder`
 
-│   └── website-favicon.png `favicon` 
+│   └── website-favicon.svg `favicon` 
 
 │   └── website-preview.png `preview image` 
 
